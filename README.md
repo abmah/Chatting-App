@@ -3,4 +3,4 @@ minimalistic chatting app using node js and mongodb as a backend and basic html 
 
 to run it you have to make a .env file and put your MONGO_URI inside it 
 
-<img src>
+<img src="https://i.imgur.com/wBJJjjw.png">
